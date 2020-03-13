@@ -10,22 +10,14 @@ import java.util.List;
 
 import org.junit.Test;
 
-import com.thinkhr.challenge.randompick.App;
-import com.thinkhr.challenge.randompick.Messages;
+import com.thinkhr.exercise.randompick.App;
+import com.thinkhr.exercise.randompick.Messages;
 
 /**
  * Unit test for simple App.
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
-    }
     
     /**
      * Check if Random Word can pull from list of 1

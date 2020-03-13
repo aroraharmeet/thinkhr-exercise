@@ -1,4 +1,4 @@
-package com.thinkhr.challenge.randompick;
+package com.thinkhr.exercise.randompick;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

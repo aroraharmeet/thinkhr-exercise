@@ -1,4 +1,4 @@
-package com.thinkhr.challenge.randompick;
+package com.thinkhr.exercise.randompick;
 
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
